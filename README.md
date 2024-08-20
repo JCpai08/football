@@ -1,3 +1,5 @@
+仿照：https://www.youtube.com/watch?v=neBZ6huolkg
+目前进度：计算控球率，估计相机运动
 diary
 # 07072125
 在roboflow上下载dataset，使用yolov5训练模型，在一些下载的视频上测试模型，效果一般
